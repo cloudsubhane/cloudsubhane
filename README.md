@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Subhan 👋</h1>
 
-<!--
-**cloudsubhane/cloudsubhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Go Developer | ☁️ Future Cloud Engineer | 🌍 Freelancer in the making
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 I’m currently focused on **mastering Golang**
+- 🌱 I’m learning **Cloud technologies**, starting with Docker, GitHub, and REST APIs
+- 🎯 My goal: become a **Mid-Level Go Developer** and **migrate to Germany**
+- 🌍 Working on freelance projects to fund my migration and living expenses
+- 📫 Reach me on [GitHub](https://github.com/cloudsubhane)
+
+---
+
+### 🛠 Tech Stack
+
+- 💬 Languages: `Go`, `English`, `Persian`
+- ⚙️ Tools: `VS Code`, `Git`, `GitHub`
+- 📦 DevOps: `Docker`, `GitHub Actions`
+- 🗃️ Databases: `PostgreSQL`, `MySQL`, `MongoDB`
+
+---
+
+### 📈 Current Goals
+
+- ✅ Build strong GitHub presence with real-world Go projects
+- ✅ Contribute to open-source
+- ✅ Practice for job interviews in German companies
+- ✅ Apply for Cloud internships and freelance jobs
