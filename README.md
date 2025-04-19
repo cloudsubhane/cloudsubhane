@@ -8,10 +8,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently focused on **mastering Golang**
-- 🌱 I’m learning **Cloud technologies**, starting with Docker, GitHub, and REST APIs
-- 🎯 My goal: become a **Mid-Level Go Developer** and **migrate to Germany**
-- 🌍 Working on freelance projects to fund my migration and living expenses
+- 🔭 Currently focused on **mastering Golang**
+- 🌱 Learning **Cloud technologies**, starting with Docker, GitHub, and REST APIs
+- 🎯 Future goal: become a **Mid-Level Go Developer** and **relocate to Germany**
+- 🌍 Working on freelance projects to fund my long-term migration plan
 - 📫 Reach me on [GitHub](https://github.com/cloudsubhane)
 
 ---
@@ -29,5 +29,5 @@
 
 - ✅ Build strong GitHub presence with real-world Go projects
 - ✅ Contribute to open-source
-- ✅ Practice for job interviews in German companies
-- ✅ Apply for Cloud internships and freelance jobs
+- ✅ Improve cloud skills for future opportunities
+- ✅ Apply for freelance jobs and internships remotely
