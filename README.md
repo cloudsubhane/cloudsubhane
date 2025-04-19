@@ -12,7 +12,7 @@
 - 🌱 Learning **Cloud technologies**, starting with Docker, GitHub, and REST APIs
 - 🎯 Future goal: become a **Mid-Level Go Developer** and **relocate to Germany**
 - 🌍 Working on freelance projects to fund my long-term migration plan
-- 📫 Reach me on [GitHub](https://github.com/cloudsubhane)
+📫 Reach me on [GitHub](https://github.com/cloudsubhane) | [LinkedIn](https://www.linkedin.com/in/subhan-dashtian/)
 
 ---
 
